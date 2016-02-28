@@ -33,7 +33,7 @@ Ihr Poster soll im Format DIN A1 sein. Ein Betrachter soll über die Hintergrün
 
 ### Anleitung zur Masterclass
 
-* [LHCb Masterclass Anleitung](http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/
+* [LHCb Masterclass Anleitung](http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/)
 
 ### Weiterführende Literatur
 
