@@ -3,19 +3,25 @@
 
 ## Worum geht es?
 
-Sie alle kennen die Konstituenten der Atome: Protonen und Neutronen bilden den Atomkern und bestehend ihrerseits wiederum aus Quarks, die Atomhülle ist gefüllt mit Elektronen. Die Teilchenphysik kennt darüber hinaus noch eine Vielzahl an weiteren Teilchen. Diese Teilchen und ihre Wechselwirkungen untereinander werden durch das Standardmodell der Teilchenphysik (SM) beschrieben. Diese sehr erfolgreiche Theorie wurde 2013 durch die Entdeckung des Higgs-Bosons erneut experimentell bestätigt. 
+Sie alle kennen die Konstituenten der Atome: Protonen und Neutronen bilden den Atomkern und bestehend ihrerseits wiederum aus Quarks, die Atomhülle ist gefüllt mit Elektronen. Die Teilchenphysik kennt darüber hinaus noch eine Vielzahl an weiteren Teilchen. Diese Teilchen und ihre Wechselwirkungen untereinander werden durch das Standardmodell der Teilchenphysik (SM) beschrieben.
 
 Das SM beschreibt die elektromagnetische, schwache und starke Wechselwirkung und das Verhalten von Leptonen und Quarks unter diesen. Leptonen wie das Elektron und seine schweren Geschwister Myon und Tau unterliegen der elektro-schwachen Wechselwirkung, Quarks unterliegen zusätzlich noch der starken Wechselwirkung. Die elektrisch neutralen Neutrinos sind ebenfalls Leptonen wechselwirken jedoch nur schwach. Zu jedem Lepton und Quark existiert ein Anti-Teilchen mit gegensätzlicher Ladung, sonst aber identischen Eigenschaften.
 
 Neben den aus drei Quarks zusammengesetzten Baryonen wie Neutron (_up_, _down_, _down_) und Proton (_up_, _up_, _down_), können sich auch Systeme aus einem Quark und einem Anti-Quark bilden, die sogenannten Mesonen. Eines dieser Mesonen, bestehend aus einem _charm_ und einem _anti-up_ Quark, ist das elektrisch neutrale _D^(0)_-Meson. Es ist instabil und zerfällt nach einer mittleren Lebensdauer von etwa einer halben Picosekunde (10^(-12)s).
 
-Aufgabe in diesem Praktikumsversuch ist es die Lebenszeit von _D^(0)_-Mesonen zu messen, die im Zerfall in zwei gegensätzliche geladenes Pion (_π_) und Kaon (_K_) nachgewiesen werden.
+Aufgabe in diesem Praktikumsversuch ist es die Lebenszeit von _D^(0)_-Mesonen zu messen, die im Zerfall in ein geladenes Pion (_π_) und ein gegensätzlich geladenes Kaon (_K_) nachgewiesen werden. Der Datensatz auf dem die Analyse durchgeführt wird, besteht aus "echten" Daten die im Laufe des Jahres 2011 am LHCb-Experiment aufgenommen wurden.
+
+Das LHCb-Experiment ist eines von vier großen Experimenten am Large Hadron Collider (LHC) am Europäischen Kernforschungszentrum CERN.
 
 ## Vorbereitung
 
 * Schauen Sie sich auf der offiziellen [Website](http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/en/) der LHCb-Masterclasses um.
 * Lesen Sie die [Anleitung](http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/DEinstructions.pdf) zur Messung.
-* Mit den folgenden Begrifflichkeiten sollten Sie sich erneut vertraut machen: _Lebensdauer & radioaktiver Zerfall, Elementarteilchen, Leptonen, Quarks, Hadronen (Baryonen & Mesonen), elementare Wechselwirkungen (elektro-magnetisch, schwach, stark), relativistische Kinematik insbesondere Vierer-Impulse und relativistische Invarianten, natürliche Einheiten, statistische & systematische Messunsicherheiten_. 
+* Mit den folgenden Begrifflichkeiten sollten Sie sich erneut vertraut machen: _Lebensdauer & radioaktiver Zerfall, Elementarteilchen, Leptonen, Quarks, Hadronen (Baryonen & Mesonen), elementare Wechselwirkungen (elektro-magnetisch, schwach, stark), relativistische Kinematik insbesondere Vierer-Impulse und relativistische Invarianten, natürliche Einheiten, statistische & systematische Messunsicherheiten_.
+
+#### Benutzen des eigenen Notebooks
+
+Sie können gerne Ihr eigenes Notebook benutzen. Wenn Sie Fragen bzgl. der Installation haben, sprechen Sie mich an.
 
 ## Ablauf
 
