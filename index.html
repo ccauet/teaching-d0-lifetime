@@ -22,13 +22,17 @@
       <h2>
 <a id="worum-geht-es" class="anchor" href="#worum-geht-es" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Worum geht es?</h2>
 
-<p>Sie alle kennen die Konstituenten der Atome: Protonen und Neutronen bilden den Atomkern und bestehend ihrerseits wiederum aus Quarks, die Atomhülle ist gefüllt mit Elektronen. Die Teilchenphysik kennt darüber hinaus noch eine Vielzahl an weiteren Teilchen. Diese Teilchen und ihre Wechselwirkungen untereinander werden durch das Standardmodell der Teilchenphysik (SM) beschrieben. Diese sehr erfolgreiche Theorie wurde 2013 durch die Entdeckung des Higgs-Bosons erneut experimentell bestätigt. </p>
+<p>Sie alle kennen die Konstituenten der Atome: Protonen und Neutronen bilden den Atomkern und bestehend ihrerseits wiederum aus Quarks, die Atomhülle ist gefüllt mit Elektronen. Die Teilchenphysik kennt darüber hinaus noch eine Vielzahl an weiteren Teilchen. Diese Teilchen und ihre Wechselwirkungen untereinander werden durch das Standardmodell der Teilchenphysik (SM) beschrieben.</p>
 
 <p>Das SM beschreibt die elektromagnetische, schwache und starke Wechselwirkung und das Verhalten von Leptonen und Quarks unter diesen. Leptonen wie das Elektron und seine schweren Geschwister Myon und Tau unterliegen der elektro-schwachen Wechselwirkung, Quarks unterliegen zusätzlich noch der starken Wechselwirkung. Die elektrisch neutralen Neutrinos sind ebenfalls Leptonen wechselwirken jedoch nur schwach. Zu jedem Lepton und Quark existiert ein Anti-Teilchen mit gegensätzlicher Ladung, sonst aber identischen Eigenschaften.</p>
 
 <p>Neben den aus drei Quarks zusammengesetzten Baryonen wie Neutron (<em>up</em>, <em>down</em>, <em>down</em>) und Proton (<em>up</em>, <em>up</em>, <em>down</em>), können sich auch Systeme aus einem Quark und einem Anti-Quark bilden, die sogenannten Mesonen. Eines dieser Mesonen, bestehend aus einem <em>charm</em> und einem <em>anti-up</em> Quark, ist das elektrisch neutrale <em>D^(0)</em>-Meson. Es ist instabil und zerfällt nach einer mittleren Lebensdauer von etwa einer halben Picosekunde (10^(-12)s).</p>
 
-<p>Aufgabe in diesem Praktikumsversuch ist es die Lebenszeit von <em>D^(0)</em>-Mesonen zu messen, die im Zerfall in zwei gegensätzliche geladenes Pion (<em>π</em>) und Kaon (<em>K</em>) nachgewiesen werden.</p>
+<p>Aufgabe in diesem Praktikumsversuch ist es die Lebenszeit von <em>D^(0)</em>-Mesonen zu messen, die im Zerfall in ein geladenes Pion (<em>π</em>) und ein gegensätzlich geladenes Kaon (<em>K</em>) nachgewiesen werden. </p>
+
+<p>Der Datensatz auf dem die Analyse durchgeführt wird, besteht aus Daten, die im Laufe des Jahres 2011 am <a href="http://lhcb-public.web.cern.ch/lhcb-public/">LHCb-Experiment</a> aufgenommen wurden. Das LHCb-Experiment ist eines von vier großen Experimenten am Large Hadron Collider (LHC) am <a href="http://home.cern">Europäischen Kernforschungszentrum CERN</a>. </p>
+
+<p>Im Rahmen des Projekts <a href="http://www.physicsmasterclasses.org"><em>International Masterclasses – hands on particle physics</em></a> in dem jedes Jahr Schülerinnen und Schüler nahgelegene Universitäten und Forschungsinstitute besuchen, entstand eine Software zur Analyse der Daten. Sie basiert auf dem <a href="https://root.cern.ch">ROOT C++ Framework</a> und ermöglicht die Durchführung der Lebenszeitmessung auch ohne Programmierkenntnisse. Die Software ist frei verfügbar, so dass wir sie auch benutzen können.</p>
 
 <h2>
 <a id="vorbereitung" class="anchor" href="#vorbereitung" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vorbereitung</h2>
@@ -36,8 +40,13 @@
 <ul>
 <li>Schauen Sie sich auf der offiziellen <a href="http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/en/">Website</a> der LHCb-Masterclasses um.</li>
 <li>Lesen Sie die <a href="http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/DEinstructions.pdf">Anleitung</a> zur Messung.</li>
-<li>Mit den folgenden Begrifflichkeiten sollten Sie sich erneut vertraut machen: <em>Lebensdauer &amp; radioaktiver Zerfall, Elementarteilchen, Leptonen, Quarks, Hadronen (Baryonen &amp; Mesonen), elementare Wechselwirkungen (elektro-magnetisch, schwach, stark), relativistische Kinematik insbesondere Vierer-Impulse und relativistische Invarianten, natürliche Einheiten, statistische &amp; systematische Messunsicherheiten</em>. </li>
+<li>Mit den folgenden Begrifflichkeiten sollten Sie sich erneut vertraut machen: <em>Lebensdauer &amp; radioaktiver Zerfall, Elementarteilchen, Leptonen, Quarks, Hadronen (Baryonen &amp; Mesonen), elementare Wechselwirkungen (elektro-magnetisch, schwach, stark), relativistische Kinematik insbesondere Vierer-Impulse und relativistische Invarianten, natürliche Einheiten, statistische &amp; systematische Messunsicherheiten</em>.</li>
 </ul>
+
+<h4>
+<a id="benutzen-des-eigenen-notebooks" class="anchor" href="#benutzen-des-eigenen-notebooks" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Benutzen des eigenen Notebooks</h4>
+
+<p>Sie können gerne Ihr eigenes Notebook benutzen: <a href="http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/en/Downloads.html">Installationseinleitung</a>. Wenn Sie Fragen bzgl. der Installation der Software haben, sprechen Sie mich an.</p>
 
 <h2>
 <a id="ablauf" class="anchor" href="#ablauf" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Ablauf</h2>
@@ -48,9 +57,7 @@
 <li>
 <strong>XX</strong>, Durchführung des Versuchs</li>
 <li>
-<strong>YY</strong>, Abgabe der Testate</li>
-<li>
-<strong>ZZ</strong>, Präsentation der Ergebnisse</li>
+<strong>YY</strong>, Präsentation der Ergebnisse</li>
 </ul>
 
 <h2>
@@ -61,12 +68,18 @@
 <p>Ihr Poster soll im Format DIN A0 erstellt werden. Sie sind selbst für den Druck des Posters verantwortlich.</p>
 
 <h3>
-<a id="aufgaben" class="anchor" href="#aufgaben" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Aufgaben</h3>
+<a id="fragestellungen" class="anchor" href="#fragestellungen" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Fragestellungen</h3>
 
 <ul>
+<li>Welchen Zeilchenzerfall untersuchen Sie?</li>
 <li>Wie funktioniert eine Lebensdauer-Messung an einem Teilchendetektor?</li>
+<li>Warum eignet sich der LHCb-Detektor besonders gut für Messungen der Lebenszeit von Teilchen?</li>
+<li>Wie läuft die Selektion von Signal-Ereignissen ab?</li>
+<li>Welche Ursache haben Untergrund-Ereignisse?</li>
 <li>Warum eignet sich der Stoßparameter als diskrimierende Variable?</li>
 <li>Welche Eigenschaften muss ein Gütemaß erfüllen um sinnvoll eingesetzt zu werden?</li>
+<li>Wie gelingt die Messung der Lebenszeit obwohl der Datensatz nicht ausschließlich aus Signal-Kandidaten besteht?</li>
+<li>Sie führen mehrere Messungen für verschiedene Grenzen des Stoßparameters durch. Welche Messung ist die Beste?</li>
 </ul>
 
 <h3>
@@ -77,7 +90,7 @@
 
 <p>Den Inhalt des Posters können Sie nach Ihren eigenen Vorstellungen gestalten. Versuchen Sie sich in den Adressaten hineinzuversetzen. Wer schaut sich das Poster an? Welche Informationen sind für diese Person interessant und wichtig? Welches Vorwissen bringt der Betrachter mit? Welche Botschaft möchten Sie mit Ihrer Präsentation transportieren?</p>
 
-<p>Zur Hilfe einige grundsätzliche Hinweise zur Struktur der Präsentation:</p>
+<p>Allgemeine Hinweise zur Struktur der Präsentation:</p>
 
 <ul>
 <li>Einleitung
@@ -89,25 +102,32 @@
 <li>Kontext
 
 <ul>
-<li>Wie ist Ihre Arbeit eingebettet? Was untersuchen Sie für einen Datensatz? Was sind die grundlegenden physikalischen Zusammenhänge? Welche Messungen existieren bereits? Zeichnet sich Ihre Messung besonders aus, wenn ja wodurch?</li>
+<li>Wie ist Ihre Arbeit eingebettet? </li>
+<li>Was untersuchen Sie für einen Datensatz? </li>
+<li>Was sind die grundlegenden physikalischen Zusammenhänge? </li>
+<li>Welche Messungen existieren bereits? </li>
+<li>Zeichnet sich Ihre Messung besonders aus, wenn ja wodurch?</li>
 </ul>
 </li>
 <li>Messung
 
 <ul>
-<li>Beschreiben Sie Ihre Messung so dass ein außenstehender aber mit Teilchenphysik vertrauter Betrachter sie nachvollziehen kann.</li>
+<li>Beschreiben Sie Ihre Messung, so dass ein außenstehender aber mit Teilchenphysik vertrauter Betrachter sie nachvollziehen kann.</li>
 </ul>
 </li>
 <li>Ergebnisse
 
 <ul>
-<li>Wie lauten die Ergebnisse? Zeigen Sie interessante Plots!</li>
+<li>Wie lauten die Ergebnisse? </li>
+<li>Zeigen Sie interessante Plots!</li>
 </ul>
 </li>
 <li>Diskussion
 
 <ul>
-<li>Was bedeutet Ihre Messung? Welchen Einfluss hat sie auf bereits existierende Messungen? Was zeichnet Ihre Messung aus und welche Schlüsse sollten aus ihr gezogen werden?</li>
+<li>Was bedeutet Ihre Messung? </li>
+<li>Welchen Einfluss hat sie auf bereits existierende Messungen? </li>
+<li>Was zeichnet Ihre Messung aus und welche Schlüsse sollten aus ihr gezogen werden?</li>
 </ul>
 </li>
 </ul>
