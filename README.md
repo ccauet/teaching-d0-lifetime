@@ -9,9 +9,11 @@ Das SM beschreibt die elektromagnetische, schwache und starke Wechselwirkung und
 
 Neben den aus drei Quarks zusammengesetzten Baryonen wie Neutron (_up_, _down_, _down_) und Proton (_up_, _up_, _down_), können sich auch Systeme aus einem Quark und einem Anti-Quark bilden, die sogenannten Mesonen. Eines dieser Mesonen, bestehend aus einem _charm_ und einem _anti-up_ Quark, ist das elektrisch neutrale _D^(0)_-Meson. Es ist instabil und zerfällt nach einer mittleren Lebensdauer von etwa einer halben Picosekunde (10^(-12)s).
 
-Aufgabe in diesem Praktikumsversuch ist es die Lebenszeit von _D^(0)_-Mesonen zu messen, die im Zerfall in ein geladenes Pion (_π_) und ein gegensätzlich geladenes Kaon (_K_) nachgewiesen werden. Der Datensatz auf dem die Analyse durchgeführt wird, besteht aus "echten" Daten die im Laufe des Jahres 2011 am LHCb-Experiment aufgenommen wurden.
+Aufgabe in diesem Praktikumsversuch ist es die Lebenszeit von _D^(0)_-Mesonen zu messen, die im Zerfall in ein geladenes Pion (_π_) und ein gegensätzlich geladenes Kaon (_K_) nachgewiesen werden. 
 
-Das LHCb-Experiment ist eines von vier großen Experimenten am Large Hadron Collider (LHC) am Europäischen Kernforschungszentrum CERN.
+Der Datensatz auf dem die Analyse durchgeführt wird, besteht aus Daten, die im Laufe des Jahres 2011 am [LHCb-Experiment](http://lhcb-public.web.cern.ch/lhcb-public/) aufgenommen wurden. Das LHCb-Experiment ist eines von vier großen Experimenten am Large Hadron Collider (LHC) am [Europäischen Kernforschungszentrum CERN](http://home.cern). 
+
+Im Rahmen des Projekts [_International Masterclasses – hands on particle physics_](http://www.physicsmasterclasses.org) in dem jedes Jahr Schülerinnen und Schüler nahgelegene Universitäten und Forschungsinstitute besuchen, entstand eine Software zur Analyse der Daten. Sie basiert auf dem [ROOT C++ Framework](https://root.cern.ch) und ermöglicht die Durchführung der Lebenszeitmessung auch ohne Programmierkenntnisse. Die Software ist frei verfügbar, so dass wir sie auch benutzen können.
 
 ## Vorbereitung
 
@@ -21,14 +23,13 @@ Das LHCb-Experiment ist eines von vier großen Experimenten am Large Hadron Coll
 
 #### Benutzen des eigenen Notebooks
 
-Sie können gerne Ihr eigenes Notebook benutzen. Wenn Sie Fragen bzgl. der Installation haben, sprechen Sie mich an.
+Sie können gerne Ihr eigenes Notebook benutzen: [Installationseinleitung](http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/en/Downloads.html). Wenn Sie Fragen bzgl. der Installation der Software haben, sprechen Sie mich an.
 
 ## Ablauf
 
 * **Montag, 30. Mai 2016, 8 Uhr c.t.**, Einführungsvorlesung zur Physik am LHC
 * **XX**, Durchführung des Versuchs
-* **YY**, Abgabe der Testate
-* **ZZ**, Präsentation der Ergebnisse
+* **YY**, Präsentation der Ergebnisse
 
 
 ## Testat
@@ -37,11 +38,17 @@ Das Testat wird in Form einer Posterpräsentation durchgeführt. Jede Gruppe ers
 
 Ihr Poster soll im Format DIN A0 erstellt werden. Sie sind selbst für den Druck des Posters verantwortlich.
 
-### Aufgaben
+### Fragestellungen
 
+* Welchen Zeilchenzerfall untersuchen Sie?
 * Wie funktioniert eine Lebensdauer-Messung an einem Teilchendetektor?
+* Warum eignet sich der LHCb-Detektor besonders gut für Messungen der Lebenszeit von Teilchen?
+* Wie läuft die Selektion von Signal-Ereignissen ab?
+* Welche Ursache haben Untergrund-Ereignisse?
 * Warum eignet sich der Stoßparameter als diskrimierende Variable?
 * Welche Eigenschaften muss ein Gütemaß erfüllen um sinnvoll eingesetzt zu werden?
+* Wie gelingt die Messung der Lebenszeit obwohl der Datensatz nicht ausschließlich aus Signal-Kandidaten besteht?
+* Sie führen mehrere Messungen für verschiedene Grenzen des Stoßparameters durch. Welche Messung ist die Beste?
 
 ### Hinweise
 
@@ -49,18 +56,25 @@ Ihr Poster soll im Format DIN A0 erstellt werden. Sie sind selbst für den Druck
 
 Den Inhalt des Posters können Sie nach Ihren eigenen Vorstellungen gestalten. Versuchen Sie sich in den Adressaten hineinzuversetzen. Wer schaut sich das Poster an? Welche Informationen sind für diese Person interessant und wichtig? Welches Vorwissen bringt der Betrachter mit? Welche Botschaft möchten Sie mit Ihrer Präsentation transportieren?
 
-Zur Hilfe einige grundsätzliche Hinweise zur Struktur der Präsentation:
+Allgemeine Hinweise zur Struktur der Präsentation:
 
 * Einleitung
     * Beschreiben Sie kurz worum es geht, was Sie für eine Messung durchführen, welches Ziel Sie verfolgen
 * Kontext
-    * Wie ist Ihre Arbeit eingebettet? Was untersuchen Sie für einen Datensatz? Was sind die grundlegenden physikalischen Zusammenhänge? Welche Messungen existieren bereits? Zeichnet sich Ihre Messung besonders aus, wenn ja wodurch?
+    * Wie ist Ihre Arbeit eingebettet? 
+    * Was untersuchen Sie für einen Datensatz? 
+    * Was sind die grundlegenden physikalischen Zusammenhänge? 
+    * Welche Messungen existieren bereits? 
+    * Zeichnet sich Ihre Messung besonders aus, wenn ja wodurch?
 * Messung
-    * Beschreiben Sie Ihre Messung so dass ein außenstehender aber mit Teilchenphysik vertrauter Betrachter sie nachvollziehen kann.
+    * Beschreiben Sie Ihre Messung, so dass ein außenstehender aber mit Teilchenphysik vertrauter Betrachter sie nachvollziehen kann.
 * Ergebnisse
-    * Wie lauten die Ergebnisse? Zeigen Sie interessante Plots!
+    * Wie lauten die Ergebnisse? 
+    * Zeigen Sie interessante Plots!
 * Diskussion
-    * Was bedeutet Ihre Messung? Welchen Einfluss hat sie auf bereits existierende Messungen? Was zeichnet Ihre Messung aus und welche Schlüsse sollten aus ihr gezogen werden?
+    * Was bedeutet Ihre Messung? 
+    * Welchen Einfluss hat sie auf bereits existierende Messungen? 
+    * Was zeichnet Ihre Messung aus und welche Schlüsse sollten aus ihr gezogen werden?
 
 #### Software
 
