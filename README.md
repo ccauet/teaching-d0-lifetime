@@ -11,7 +11,7 @@ Neben den aus drei Quarks zusammengesetzten Baryonen wie Neutron (_up_, _down_, 
 
 Aufgabe in diesem Praktikumsversuch ist es die Lebenszeit von _D^(0)_-Mesonen zu messen, die im Zerfall in ein geladenes Pion (_π_) und ein gegensätzlich geladenes Kaon (_K_) nachgewiesen werden. 
 
-Der Datensatz auf dem die Analyse durchgeführt wird, besteht aus Daten, die im Laufe des Jahres 2011 am [LHCb-Experiment](http://lhcb-public.web.cern.ch/lhcb-public/) aufgenommen wurden. Das LHCb-Experiment ist eines von vier großen Experimenten am Large Hadron Collider (LHC) am [Europäischen Kernforschungszentrum CERN](http://home.cern). 
+Der Datensatz auf dem die Analyse durchgeführt wird, besteht aus Daten, die im Laufe des Jahres 2011 am [LHCb-Experiment](http://lhcb-public.web.cern.ch/lhcb-public/) aufgenommen wurden. Das LHCb-Experiment ist eines von vier großen Experimenten am Large Hadron Collider (LHC) am [Europäischen Teilchenphysiklabor CERN](http://home.cern). 
 
 Im Rahmen des Projekts [_International Masterclasses – hands on particle physics_](http://www.physicsmasterclasses.org) in dem jedes Jahr Schülerinnen und Schüler nahgelegene Universitäten und Forschungsinstitute besuchen, entstand eine Software zur Analyse der Daten. Sie basiert auf dem [ROOT C++ Framework](https://root.cern.ch) und ermöglicht die Durchführung der Lebenszeitmessung auch ohne Programmierkenntnisse. Die Software ist frei verfügbar, so dass wir sie auch benutzen können.
 
