@@ -80,7 +80,7 @@ Allgemeine Hinweise zur Struktur der Präsentation:
 
 Falls Sie keinerlei Vorstellung haben, wie ein Poster aussieht, hier ein Beispiel. In den Fluren der verschiedenen Lehrstühle sind zahlreiche weitere Exemplare zu finden.
 
-<a href="./poster_example.pdf"><img src="./thumbnail_poster.png" alt="poster" style="width: 175px;"/></a>
+<a href="./poster_example.pdf"><img src="https://raw.githubusercontent.com/ccauet/teaching-d0-lifetime/blob/master/poster_example.pdf" alt="poster" style="width: 175px;"/></a>
 
 #### Software
 
