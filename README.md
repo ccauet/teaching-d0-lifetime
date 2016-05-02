@@ -28,15 +28,15 @@ Sie können gerne Ihr eigenes Notebook benutzen: [Installationseinleitung](http:
 ## Ablauf
 
 * **Montag, 30. Mai 2016, 8 Uhr c.t.**, Einführungsvorlesung zur Physik am LHC
-* **XX**, Durchführung des Versuchs
-* **YY**, Präsentation der Ergebnisse
+* **Montag, 6. Juni 2016, 8 Uhr c.t.**, Durchführung des Versuchs mit kurzem mündlichen Antestat
+* **Montag, 27. Juni 2016, 8 Uhr c.t.**, Präsentation der Ergebnisse
 
 
 ## Testat
 
 Das Testat wird in Form einer Posterpräsentation durchgeführt. Jede Gruppe erstellt dazu ein Poster mit Ihren Versuchsergebnissen. Stellen Sie sich vor, Sie möchten die Ergebnisse Ihrer Messung auf einer Fachtagung dem interessierten Publikum vorstellen. 
 
-Ihr Poster soll im Format DIN A0 erstellt werden. Sie sind selbst für den Druck des Posters verantwortlich.
+Ihr Poster soll im Format DIN A0 (oder DIN B1) erstellt werden. Sie sind selbst für den Druck des Posters verantwortlich.
 
 ### Fragestellungen
 
@@ -75,6 +75,12 @@ Allgemeine Hinweise zur Struktur der Präsentation:
     * Was bedeutet Ihre Messung? 
     * Welchen Einfluss hat sie auf bereits existierende Messungen? 
     * Was zeichnet Ihre Messung aus und welche Schlüsse sollten aus ihr gezogen werden?
+
+#### Beispiel-Poster
+
+Falls Sie keinerlei Vorstellung haben, wie ein Poster aussieht, hier ein Beispiel. In den Fluren der verschiedenen Lehrstühle sind zahlreiche weitere Exemplare zu finden.
+
+<a href="poster_example.pdf"><img src="poster_example.pdf" alt="Drawing" style="width: 250px;"/></a>
 
 #### Software
 
