@@ -86,7 +86,7 @@ Falls Sie keinerlei Vorstellung haben, wie ein Poster aussieht, hier ein Beispie
 
 Eine ungeordnete und sicherlich unvollständige Liste von Software um Poster zu erstellen. Schreiben Sie mir wenn Sie noch andere Programme kennen.
 
-* [LaTeX](https://de.wikipedia.org/wiki/LaTeX) mit [Beamer](https://de.wikipedia.org/wiki/Beamer_(LaTeX))
+* [LaTeX](https://de.wikipedia.org/wiki/LaTeX) mit [beamerposter](http://www.ctan.org/pkg/beamerposter) (Alternativen: [tikzposter](http://www.ctan.org/pkg/tikzposter), [a0poster](http://www.ctan.org/pkg/a0poster), [sciposter](http://www.ctan.org/pkg/sciposter))
 * [OpenOffice](https://de.wikipedia.org/wiki/Apache_OpenOffice)
 * [Apple Pages](https://de.wikipedia.org/wiki/Pages_(Software))
 * [Microsoft Publisher](https://de.wikipedia.org/wiki/Microsoft_Publisher)
