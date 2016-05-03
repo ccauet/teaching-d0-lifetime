@@ -99,7 +99,7 @@ Eine ungeordnete und sicherlich unvollständige Liste von Software um Poster zu 
 
 ### Anleitung zur LHCb-Masterclass
 
-* [LHCb Masterclass Anleitung](http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/)
+* [LHCb Masterclass Anleitung](http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/en/)
 
 ### Weiterführende Literatur
 
