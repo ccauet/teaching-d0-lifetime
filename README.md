@@ -21,6 +21,10 @@ Im Rahmen des Projekts [_International Masterclasses – hands on particle physi
 * Lesen Sie die [Anleitung](http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/DEinstructions.pdf) zur Messung.
 * Mit den folgenden Begrifflichkeiten sollten Sie sich erneut vertraut machen: _Lebensdauer & radioaktiver Zerfall, Elementarteilchen, Leptonen, Quarks, Hadronen (Baryonen & Mesonen), elementare Wechselwirkungen (elektro-magnetisch, schwach, stark), relativistische Kinematik insbesondere Vierer-Impulse und relativistische Invarianten, natürliche Einheiten, statistische & systematische Messunsicherheiten_.
 
+#### Schritt-für-Schritt-Anleitung
+
+<a href="https://dl.dropboxusercontent.com/u/171315/pdf/software_instructions.pdf"><img src="https://dl.dropboxusercontent.com/u/171315/png/software_instructions.png" alt="poster" width="200"/></a>
+
 #### Benutzen des eigenen Notebooks
 
 Sie können gerne Ihr eigenes Notebook benutzen: [Installationseinleitung](http://lhcb-public.web.cern.ch/lhcb-public/en/LHCb-outreach/masterclasses/en/Downloads.html). Wenn Sie Fragen bzgl. der Installation der Software haben, sprechen Sie mich an.
