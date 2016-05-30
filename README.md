@@ -32,7 +32,7 @@ Sie können gerne Ihr eigenes Notebook benutzen: [Installationseinleitung](http:
 ## Ablauf
 
 * **Montag, 30. Mai 2016, 8 Uhr c.t.**, Einführungsvorlesung zur Physik am LHC
-* **Montag, 6. Juni 2016, 8 Uhr c.t.**, Durchführung des Versuchs mit kurzem mündlichen Antestat
+* **Montag, 6. Juni 2016, <font color="red">9 Uhr s.t.</font>**, Durchführung des Versuchs mit kurzem mündlichen Antestat
 * **Montag, 27. Juni 2016, 8 Uhr c.t.**, Präsentation der Ergebnisse
 
 
