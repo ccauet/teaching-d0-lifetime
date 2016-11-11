@@ -1,5 +1,5 @@
 # Bestimmung der Lebenszeit neutraler D-Mesonen
-**Fortgeschrittenen-Praktikum, M.Ed. GY Physik, SS2016, Universität Koblenz-Landau**
+**Fortgeschrittenen-Praktikum, M.Ed. GY Physik, WS2016/17, Universität Koblenz-Landau**
 
 ## Worum geht es?
 
@@ -31,9 +31,9 @@ Sie können gerne Ihr eigenes Notebook benutzen: [Installationseinleitung](http:
 
 ## Ablauf
 
-* **Montag, 30. Mai 2016, 8 Uhr c.t.**, Einführungsvorlesung zur Physik am LHC
-* **Montag, 6. Juni 2016, 9 Uhr s.t.**, Durchführung des Versuchs mit kurzem mündlichen Antestat
-* **Montag, 27. Juni 2016, 9 Uhr s.t.**, Präsentation der Ergebnisse
+* **Dienstag, 6. Dezember 2016, 9 Uhr c.t.**, Einführungsvorlesung zur Physik am LHC
+* **Dienstag, 13. Dezember 2016, 9 Uhr s.t.**, Durchführung des Versuchs mit kurzem mündlichen Antestat
+* **Dienstag, 17. Januar 2017, 9 Uhr s.t.**, Präsentation der Ergebnisse
 
 
 ## Testat
@@ -125,7 +125,5 @@ Eine _persönliche_ Auswahl:
 
 ## Kontakt
 
-Wenn Sie Fragen haben, schreiben Sie mir am besten eine Email oder kommen Sie in meine Sprechstunde.
-
-**Email:** [fp-ld-2016@christophe.cauet.de](fp-ld-2016@christophe.cauet.de)   
-**Sprechstunde:** tba
+**Email:** [fp-ld-201617@christophe.cauet.de](fp-ld-2016@christophe.cauet.de)   
+**Sprechstunde:** nach Vereinbarung und per Email
