@@ -23,7 +23,7 @@ Im Rahmen des Projekts [_International Masterclasses – hands on particle physi
 
 #### Schritt-für-Schritt-Anleitung
 
-<a href="https://www.dropbox.com/s/gad9yv0w76d40t2/software_instructions.pdf?dl=0"><img src="https://www.dropbox.com/s/3a24abndgz9yyxb/software_instructions.png?dl=0" alt="poster" width="200"/></a>
+<a href="https://www.dropbox.com/s/gad9yv0w76d40t2/software_instructions.pdf?dl=0"><img src="https://www.dropbox.com/s/3a24abndgz9yyxb/software_instructions.png" alt="poster" width="200"/></a>
 
 #### Benutzen des eigenen Notebooks
 
