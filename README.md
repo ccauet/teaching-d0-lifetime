@@ -31,9 +31,9 @@ Sie können gerne Ihr eigenes Notebook benutzen: [Installationseinleitung](http:
 
 ## Ablauf
 
-* **Dienstag, 12. Dezember 2017, 8 Uhr s.t.**, Einführungsvorlesung zur Physik am LHC
-* **Dienstag, 9. Januar 2018, 8 Uhr s.t.**, Durchführung des Versuchs mit kurzem mündlichen Antestat
-* **Dienstag, 6. Februar 2018, 8 Uhr s.t.**, Präsentation der Ergebnisse
+* **Dienstag, 12. Dezember 2017, 8 Uhr c.t.**, Einführungsvorlesung zur Physik am LHC
+* **Dienstag, 9. Januar 2018, 8 Uhr c.t.**, Durchführung des Versuchs mit kurzem mündlichen Antestat
+* **Dienstag, 6. Februar 2018, 8 Uhr c.t.**, Präsentation der Ergebnisse
 
 
 ## Testat
