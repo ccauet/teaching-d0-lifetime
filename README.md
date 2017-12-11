@@ -84,7 +84,7 @@ Allgemeine Hinweise zur Struktur der Präsentation:
 
 Falls Sie keinerlei Vorstellung haben, wie ein Poster aussieht, hier ein Beispiel. In den Fluren der verschiedenen Lehrstühle sind zahlreiche weitere Exemplare zu finden.
 
-<a href="https://cds.cern.ch/record/1433708/files/Poster-2012-216.pdf"><img src="https://dl.dropboxusercontent.com/u/171315/web/poster_example_small.png" alt="poster" width="200"/></a>
+<a href="https://cds.cern.ch/record/1433708/files/Poster-2012-216.pdf"><img src="https://www.dropbox.com/s/dfbrdcfk36jkf9y/poster_example_small.png" alt="poster" width="200"/></a>
 
 #### Software
 
